@@ -1,0 +1,8 @@
+# Archivos del sistema Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos temporales o de respaldo de PSeInt si los hubiera
+*.tmp
+*.bak
