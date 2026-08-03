@@ -20,3 +20,11 @@ Si quieres entender cómo descifrar el patrón matemático de cada secuencia y v
 ---
 
 ⭐ ¡Si este material te sirvió para aprobar tus laboratorios, no olvides dejar una estrella en este repositorio y suscribirte al canal!
+
+---
+
+## 🌐 Conéctate con la Comunidad
+
+¡Súmate a nuestros canales oficiales para no perderte ningún tutorial y resolver tus dudas con otros estudiantes!
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://tinyurl.com/ProgramacionParaTodos/?sub_confirmation=1) [![Canal WhatsApp](https://img.shields.io/badge/Canal%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/ChannelWhatsAppPPT) [![Grupo WhatsApp](https://img.shields.io/badge/Grupo%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/GrupoWhatsAppPPT) [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ProgramacionParaTodos)
